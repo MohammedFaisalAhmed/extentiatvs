@@ -1,0 +1,21 @@
+{
+	"Products":   [
+		
+		{
+			"ProductName":"TestProduct1",
+			"NameoftheProduct":"Protection & Security"
+			
+			
+			
+		},
+		
+		{
+			
+			"ProductName":"TestProduct2",
+			"NameoftheProduct":"Style"
+						
+		}
+		
+		
+	]
+}

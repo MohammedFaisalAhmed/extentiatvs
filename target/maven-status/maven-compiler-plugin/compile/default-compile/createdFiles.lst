@@ -1,0 +1,12 @@
+com\extentiatvs\pageactions\CollectionsPageActions.class
+com\extentiatvs\utilities\ExtentManagerUtil.class
+com\extentiatvs\utilities\ConfigUtil.class
+com\extentiatvs\utilities\WaitUtil.class
+com\extentiatvs\pageobjects\ShopPage.class
+com\extentiatvs\utilities\WebElementUIHelperUtil.class
+com\extentiatvs\pageobjects\HomePage.class
+com\extentiatvs\pageactions\HomePageActions.class
+com\extentiatvs\pageobjects\CollectionsPage.class
+com\extentiatvs\pageactions\ShopPageActions.class
+com\extentiatvs\utilities\JsonUtil.class
+com\extentiatvs\utilities\DriverFactoryUtil.class

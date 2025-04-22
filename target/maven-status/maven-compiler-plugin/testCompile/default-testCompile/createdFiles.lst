@@ -1,0 +1,6 @@
+com\extentiatvs\stepdefinitions\BaseSteps.class
+com\extentiatvs\stepdefinitions\CollectionsPageSteps.class
+com\extentiatvs\stepdefinitions\Hooks.class
+com\extentiatvs\stepdefinitions\HomePageSteps.class
+com\extentiatvs\stepdefinitions\ShopPageSteps.class
+com\extentiatvs\testrunner\TestRunner.class
